@@ -1,0 +1,47 @@
+body {
+  background: url("https://i.pinimg.com/originals/65/e1/88/65e1881e72c824067a0c26287a48c50b.jpg") no-repeat fixed;
+  background-opacity: 0.3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  
+
+}
+.jumbotron {
+  background-color: rgba(135, 206, 250, 0.3);
+  opacity: 1;
+  padding: 20px
+}
+.thick-blue-border {
+  border-color: rgb (135, 206, 250);
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 2%;
+  padding: 0px;
+ 
+}
+.thick-blue-border img {
+  width: 100%;
+  height: auto;
+}
+
+
+.smaller-image {
+  width: 300px;
+}
+
+.paragraph1 {
+  font-size: 24px;
+  font-family: sans-serif;
+  padding: 70px;
+}
+#para1 {
+  background-color: rgba(135, 206, 250, 0.3);
+  padding: 10px;
+
+}
+#info-button {
+  background-color: rgba(135, 206, 250, 0.8);
+  margin: 20px
+}
+
